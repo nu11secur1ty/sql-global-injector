@@ -7,9 +7,9 @@
 ```
 - Installation
 apt-get install python python3 git
-git clone https://github.com/jaxBCD/Ultimate-Dork.git
+git clone https://github.com/nu11secur1ty/sql-global-injector.git
 python3 -m pip install requests mechanicalsoup 
-cd Ultimate-Dork
+cd sql-global-injector
 
  - Usage 
  python3 ultimate-dork.py -h *show help and description
