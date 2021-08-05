@@ -26,7 +26,8 @@ python3 ultimate-dork.py --dork keyword
  
 ```
  <b>[ update ] :</b> 19 March 2019
-  <b>[ update ] :</b> 08 August 2021
+ - Next Update:
+ <b>[ update ] :</b> 08 August 2021
  
 #### COPYRIGHT©2019 https://github.com/jaxBCD
 #### COPYRIGHT©2021 https://github.com/nu11secur1ty
