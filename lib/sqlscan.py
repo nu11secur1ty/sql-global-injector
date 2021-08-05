@@ -129,7 +129,8 @@ class sqli_scan(object):
                   "INDEFINITE-02":'An illegal character has been found in the statement',
                   "INDEFINITE-03":"Invalid Querystring",
                   "INDEFINITE-04":"Fatal error",
-                  "INDEFINITE-05":"Incorrect syntax near",}
+                  "INDEFINITE-05":"Incorrect syntax near",
+                  "BASE-TEST":"'",}
                   
       def scan(self,url):
           self.url = url

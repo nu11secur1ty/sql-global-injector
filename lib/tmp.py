@@ -28,9 +28,9 @@ class logo(color):
           return f'''
            /\            /\     -{_.G} Ultimate Dork{_.W} -
           /  \  ~  ~  /\/  \_
-         /____\({_.R}o{_.W})({_.R}o{_.W})/_/\__    {_.Y} Codename{_.W} : JaxBCD
-        /|   /(______)   \ \_   - V  :{_.B} 2.0 compatible {_.W}
-       / |  /             \_    - {_.R}By{_.W} : 407 Authentic Exploit
+         /____\({_.R}o{_.W})({_.R}o{_.W})/_/\__    {_.Y} Codename{_.W} : JaxBCD-echo
+        /|   /(______)   \ \_   - V  :{_.B} 2.0.1 compatible {_.W}
+       / |  /             \_    - {_.R}By{_.W} : 407 Authentic Exploit & nu11secur1ty from OPSEC
      _/ _|_/                    
           '''
 def load():
