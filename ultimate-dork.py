@@ -85,8 +85,8 @@ usage="%(prog)s --dork [keyword]  --scan",
 formatter_class=argparse.RawTextHelpFormatter,
 description="""
 Descriptions:
- * By : 407 Authentic Exploit
------------------------------:
+ * By : 407 Authentic Exploit & nu11secur1try from OPSEC
+-------------------------------------------------------:
 - Codename : JaxBCD
 + Crawl Web Use Google Dork & Bing Dork
 + with Features SQLi Scanner Vulnerability
